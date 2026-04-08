@@ -1,0 +1,8 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Build done && mkdir -p dist && echo 'Artifact File' > dist/output.txt",
+    "test": "echo No tests"
+  }
+}
